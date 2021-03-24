@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <meta http-equiv="X-UA-Compatible" content="ie=edge">
+        <link rel ="icon" href ="images/logo.jpg" type = "image/x-icon">
+        <title>Axiom TechGuru Pvt. Ltd.</title>
+
+        <!-- Font Icon -->
+        <link rel="stylesheet" href="fonts/material-icon/css/material-design-iconic-font.min.css">
+
+        <!-- Main css -->
+        <link rel="stylesheet" href="css/style.css">
+        <style>
+            img {
+                display: block;
+                margin-left: auto;
+                margin-right: auto;
+            }
+        </style>
+    </head>
+    <body>
+
+        <div class="main">
+            <div class="container">
+                <center>
+                    <div class="signup-content" >
+
+                        <div class="signup-form">
+                            <form  class="register-form" id="register-form" >
+
+                                <h2 > Sorry something went wrong. Try again! </h2>
+
+                                <img src="images/fail1.png" style="margin-left: 60%; margin-right: 60%" alt=""/>
+
+                                <div class="form-submit">
+                                    <br />
+                                    <a href="index.php" style="margin-left: 100%;"> <input type="Button" value="Back To Registration" class="submit" name="" id="submit"  /></a>
+
+                                </div>
+
+                            </form>
+                        </div>
+                    </div>
+                </center>
+            </div>
+
+        </div>
+
+        <!
